@@ -1,0 +1,1773 @@
+{
+    "props": {
+        "pageProps": {
+            "initialState": {
+                "config": {
+                    "appVersion": "1.0.0",
+                    "appName": "",
+                    "campaignKeys": {
+                        "cid": "cid",
+                        "entry_point_id": "epid",
+                        "s_kwcid": "kwcid"
+                    },
+                    "envGoogleMapsVisitorAPIKey": "AIzaSyAGGS0Q7dARjRia9UK9rL_5PaKDiyMTxU4",
+                    "fontUrls": {
+                        "NATIONAL_FONT_BASE_URL": "https://media.angi.com/fonts/National/national-2-web-regular",
+                        "NATIONAL_FONT_BOLD_BASE_URL": "https://media.angi.com/fonts/National/national-2-web-bold",
+                        "NATIONAL_FONT_MEDIUM_BASE_URL": "https://media.angi.com/fonts/National/national-2-web-medium",
+                        "ICON_FONT_BASE_URL": "https://media.angi.com/fonts/al-icon-font/*/al-iconfont"
+                    },
+                    "algoliaApiKey": "6a393a30e8e240f7e2c6e3905cc6ee09",
+                    "algoliaTaskIndexName": "angi_prod_task",
+                    "algoliaAccountId": "CY6DJ1RISQ"
+                },
+                "router": {},
+                "experimentV2": {
+                    "experiments": {},
+                    "variations": {}
+                },
+                "experimentV3": {
+                    "experiments": {},
+                    "variations": {},
+                    "statusByName": {}
+                },
+                "session": {},
+                "googleVerification": "VALUE_MISSING_FROM_CONFIG_API",
+                "visitorAppReducer": {
+                    "userId": "",
+                    "activityLocation": "Geocat",
+                    "userType": "Visitor - New"
+                },
+                "pageDocument": {
+                    "title": null
+                },
+                "geoCat": {
+                    "response": {
+                        "reviews": [],
+                        "citiesNearMe": [
+                            {
+                                "name": "Milbank",
+                                "slug": "/companylist/us/sd/milbank/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Volga",
+                                "slug": "/companylist/us/sd/volga/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Ortonville",
+                                "slug": "/companylist/us/mn/ortonville/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Brookings",
+                                "slug": "/companylist/us/sd/brookings/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Madison",
+                                "slug": "/companylist/us/sd/madison/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Huron",
+                                "slug": "/companylist/us/sd/huron/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Veblen",
+                                "slug": "/companylist/us/sd/veblen/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Redfield",
+                                "slug": "/companylist/us/sd/redfield/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Montevideo",
+                                "slug": "/companylist/us/mn/montevideo/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Britton",
+                                "slug": "/companylist/us/sd/britton/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Marshall",
+                                "slug": "/companylist/us/mn/marshall/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Morris",
+                                "slug": "/companylist/us/mn/morris/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Dell Rapids",
+                                "slug": "/companylist/us/sd/dell-rapids/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Granite Falls",
+                                "slug": "/companylist/us/mn/granite-falls/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Aberdeen",
+                                "slug": "/companylist/us/sd/aberdeen/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Benson",
+                                "slug": "/companylist/us/mn/benson/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Crooks",
+                                "slug": "/companylist/us/sd/crooks/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Sioux Falls",
+                                "slug": "/companylist/us/sd/sioux-falls/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Mitchell",
+                                "slug": "/companylist/us/sd/mitchell/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Brandon",
+                                "slug": "/companylist/us/sd/brandon/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Luverne",
+                                "slug": "/companylist/us/mn/luverne/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Wahpeton",
+                                "slug": "/companylist/us/nd/wahpeton/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "Glenwood",
+                                "slug": "/companylist/us/mn/glenwood/mold-testing-and-remediation.htm"
+                            }
+                        ],
+                        "directory": [
+                            {
+                                "spid": 10485228,
+                                "name": "COLLINS CLEANING SYSTEMS",
+                                "slug": "/companylist/us/sd/belle-fourche/collins-cleaning-systems-reviews-5754201.htm",
+                                "address": {
+                                    "address1": "614 7TH Ave.",
+                                    "city": "Belle Fourche",
+                                    "state": "South Dakota",
+                                    "postalCode": "57717"
+                                }
+                            },
+                            {
+                                "spid": 11004101,
+                                "name": "Environmental Air Solutions, Inc.",
+                                "slug": "/companylist/us/nd/fargo/environmental-air-solutions%2C-inc-reviews-7606241.htm",
+                                "address": {
+                                    "address1": "PO Box 9074",
+                                    "address2": "",
+                                    "city": "Fargo",
+                                    "state": "North Dakota",
+                                    "postalCode": "58106"
+                                }
+                            },
+                            {
+                                "spid": 264011,
+                                "name": "Environmental Testing & Research Laboratories, Inc",
+                                "slug": "/companylist/us/ma/leominster/environmental-testing-and-research-laboratories%2C-inc-reviews-264011.htm",
+                                "address": {
+                                    "address1": "60 Elm Hill Ave.",
+                                    "address2": "Suite 1",
+                                    "city": "Leominster",
+                                    "state": "Massachusetts",
+                                    "postalCode": "01453"
+                                }
+                            },
+                            {
+                                "spid": 10839715,
+                                "name": "Global Plasma Solutions",
+                                "slug": "/companylist/us/ga/savannah/global-plasma-solutions-reviews-4061582.htm",
+                                "address": {
+                                    "address1": "10 Mall Terrace",
+                                    "address2": "",
+                                    "city": "Savannah",
+                                    "state": "Georgia",
+                                    "postalCode": "31406"
+                                }
+                            },
+                            {
+                                "spid": 5540049,
+                                "name": "Moldlab",
+                                "slug": "/companylist/us/tx/carrollton/moldlab-reviews-5540049.htm",
+                                "address": {
+                                    "address1": "2501 Mayes Road",
+                                    "address2": "Ste 110",
+                                    "city": "Carrollton",
+                                    "state": "Texas",
+                                    "postalCode": "75006"
+                                }
+                            },
+                            {
+                                "spid": 10807426,
+                                "name": "PuroClean Disaster First Response",
+                                "slug": "/companylist/us/mi/fayetteville/puroclean-disaster-first-response-reviews-8294196.htm",
+                                "address": {
+                                    "address1": "5851 Ramsey Street, Suite C",
+                                    "address2": "",
+                                    "city": "Fayetteville",
+                                    "state": "Michigan",
+                                    "postalCode": "28311"
+                                }
+                            }
+                        ],
+                        "localDirectory": [],
+                        "featuredServiceProviders": [
+                            {
+                                "spid": 5540049,
+                                "name": "Moldlab",
+                                "description": "Mold identification, mold test kits and testing supplies. If you suspect you have a mold problem give us a call toll free and we can walk you through your testing options.",
+                                "slug": "/companylist/us/tx/carrollton/moldlab-reviews-5540049.htm",
+                                "isAdvertiser": false,
+                                "hasOffers": false,
+                                "location": {
+                                    "city": "Carrollton",
+                                    "state": "TX"
+                                },
+                                "metrics": {
+                                    "allTimeAllCategoryGrade": "A",
+                                    "allTimeAllCategoryReview": 402,
+                                    "starRating": 4.72
+                                },
+                                "awards": [],
+                                "sampleReview": {
+                                    "serviceProviderId": 5540049,
+                                    "text": "Their assessment was just what the mold removing company need to plan their work.",
+                                    "reportDate": "2017-10-18T21:51:21.000Z",
+                                    "starRating": 5,
+                                    "userName": "Duane L.",
+                                    "media": []
+                                },
+                                "logo": {
+                                    "id": 5253399,
+                                    "url": "https://media-content.angi.com/4e0d6446-5085-43d1-ac7f-721d4b5b04aa.jpg"
+                                },
+                                "categoryProperties": [
+                                    {
+                                        "id": 407,
+                                        "name": "Mold Testing and Remediation"
+                                    },
+                                    {
+                                        "id": 324,
+                                        "name": "Uncategorized Services"
+                                    }
+                                ],
+                                "contactInfo": {
+                                    "phone": "8664166653",
+                                    "email": "orders@moldlab.com"
+                                },
+                                "eligibleForRaq": true,
+                                "businessHighlights": []
+                            },
+                            {
+                                "spid": 11004101,
+                                "name": "Environmental Air Solutions, Inc.",
+                                "description": "We offer a wide range of dependable services, such as air testing and mold control. With experienced and professional air quality consultants, you can count on us to make the air you breathe healthier and safer.",
+                                "slug": "/companylist/us/nd/fargo/environmental-air-solutions%2C-inc-reviews-7606241.htm",
+                                "isAdvertiser": false,
+                                "hasOffers": false,
+                                "location": {
+                                    "city": "Fargo",
+                                    "state": "ND"
+                                },
+                                "metrics": {
+                                    "allTimeAllCategoryGrade": "B",
+                                    "allTimeAllCategoryReview": 4,
+                                    "starRating": 4
+                                },
+                                "awards": [],
+                                "sampleReview": {
+                                    "serviceProviderId": 11004101,
+                                    "text": "Arrived at property at agreed upon time and immediately went to work gathering samples.&nbsp; Explained the process as he worked, great job!",
+                                    "reportDate": "2014-08-27T09:01:43.000Z",
+                                    "starRating": 5,
+                                    "userName": "Erroll B.",
+                                    "media": []
+                                },
+                                "logo": {
+                                    "id": 3349547,
+                                    "url": "https://media-content.angi.com/8742c35d-5fbb-40f4-80de-9d108a85eaa6.jpg"
+                                },
+                                "categoryProperties": [
+                                    {
+                                        "id": 407,
+                                        "name": "Mold Testing and Remediation"
+                                    },
+                                    {
+                                        "id": 594,
+                                        "name": "Basement Remodeling"
+                                    },
+                                    {
+                                        "id": 534,
+                                        "name": "Property Management"
+                                    },
+                                    {
+                                        "id": 517,
+                                        "name": "Lung/Pulmonology"
+                                    },
+                                    {
+                                        "id": 450,
+                                        "name": "Allergy & Immunology - Pediatrics"
+                                    },
+                                    {
+                                        "id": 429,
+                                        "name": "Allergy & Immunology"
+                                    },
+                                    {
+                                        "id": 395,
+                                        "name": "Real Estate Agents"
+                                    },
+                                    {
+                                        "id": 280,
+                                        "name": "Real Estate Appraisals"
+                                    },
+                                    {
+                                        "id": 220,
+                                        "name": "Wells and Pumps"
+                                    },
+                                    {
+                                        "id": 194,
+                                        "name": "Mortgage Companies"
+                                    },
+                                    {
+                                        "id": 159,
+                                        "name": "Air Duct Cleaning"
+                                    },
+                                    {
+                                        "id": 149,
+                                        "name": "Basement Waterproofing"
+                                    },
+                                    {
+                                        "id": 138,
+                                        "name": "Water and Smoke Damage"
+                                    },
+                                    {
+                                        "id": 110,
+                                        "name": "Radon Detection and Reduction"
+                                    },
+                                    {
+                                        "id": 79,
+                                        "name": "Home inspection"
+                                    },
+                                    {
+                                        "id": 58,
+                                        "name": "Pest Control"
+                                    }
+                                ],
+                                "contactInfo": {
+                                    "phone": "7014787877",
+                                    "email": "info@eairsolutions.com"
+                                },
+                                "eligibleForRaq": true,
+                                "businessHighlights": [
+                                    {
+                                        "businessHighlightTypeId": 18,
+                                        "name": "EmergencyServices",
+                                        "description": "Emergency Services Offered",
+                                        "iconUrl": "https://reference-media.angi.com/images/EmergencyServices.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "spid": 10485228,
+                                "name": "COLLINS CLEANING SYSTEMS",
+                                "description": "Will bill Insurance companies on filed insurance claims for water, sewer backup, fire and smoke and mold remediation claims. Have trained and certified employees. We are a bonded and insured company. We take cash, check and credit cards payments.",
+                                "slug": "/companylist/us/sd/belle-fourche/collins-cleaning-systems-reviews-5754201.htm",
+                                "isAdvertiser": false,
+                                "hasOffers": false,
+                                "location": {
+                                    "city": "Belle Fourche",
+                                    "state": "SD"
+                                },
+                                "metrics": {
+                                    "allTimeAllCategoryGrade": "A",
+                                    "allTimeAllCategoryReview": 3,
+                                    "starRating": 4.67
+                                },
+                                "awards": [],
+                                "sampleReview": {
+                                    "serviceProviderId": 10485228,
+                                    "text": "<p>It was really good and I told them that the price I paid was what I'm willing to pay. He came in and did an estimate. He was very conscientious and we have cats and dogs and he's very good about walking. You don't have to point to the little spots and it was just a pleasant experience. He actually wanted to do a good job. I really like that guy too.</p>",
+                                    "reportDate": "2014-06-02T10:26:49.000Z",
+                                    "starRating": 5,
+                                    "userName": "Jim G.",
+                                    "media": []
+                                },
+                                "categoryProperties": [
+                                    {
+                                        "id": 36,
+                                        "name": "Carpet Cleaning"
+                                    },
+                                    {
+                                        "id": 888,
+                                        "name": "Upholstery/Carpet - Auto"
+                                    },
+                                    {
+                                        "id": 484,
+                                        "name": "Dryer Vent Cleaning"
+                                    },
+                                    {
+                                        "id": 407,
+                                        "name": "Mold Testing and Remediation"
+                                    },
+                                    {
+                                        "id": 159,
+                                        "name": "Air Duct Cleaning"
+                                    },
+                                    {
+                                        "id": 138,
+                                        "name": "Water and Smoke Damage"
+                                    },
+                                    {
+                                        "id": 30,
+                                        "name": "Blind Cleaning"
+                                    }
+                                ],
+                                "contactInfo": {
+                                    "phone": "6058929022",
+                                    "email": "gary@collinscleaningsystems.com"
+                                },
+                                "eligibleForRaq": true,
+                                "businessHighlights": []
+                            },
+                            {
+                                "spid": 10839715,
+                                "name": "Global Plasma Solutions",
+                                "description": "Global Plasma Solutions is a manufacturing company that sells air purification systems primarily into the commercial and residential markets.  Home owners can benenfit from our systems as they are easily adapted to any HVAC system.  Go to www.gpshvac.com to find a certified contractor near you to have one installed within your home.",
+                                "slug": "/companylist/us/ga/savannah/global-plasma-solutions-reviews-4061582.htm",
+                                "isAdvertiser": false,
+                                "hasOffers": false,
+                                "location": {
+                                    "city": "Savannah",
+                                    "state": "GA"
+                                },
+                                "metrics": {
+                                    "allTimeAllCategoryGrade": "A",
+                                    "allTimeAllCategoryReview": 1,
+                                    "starRating": 5
+                                },
+                                "awards": [],
+                                "sampleReview": {
+                                    "serviceProviderId": 10839715,
+                                    "text": "The owner helped us with understanding this new ionizer technology and had to be contacted again about placing them in a better place in the HVAC system to increase ion output into the living space. &nbsp;The ionizers are a bit pricey for such small units. &nbsp;They help to kill germs in the home and remove new house construction VOCS, but we were disappointed that they did not remove all of the fumes. One email was not returned, but overall we had a good experience.",
+                                    "reportDate": "2014-06-06T23:00:51.000Z",
+                                    "starRating": 5,
+                                    "userName": "Mike &amp; Michele D.",
+                                    "media": []
+                                },
+                                "categoryProperties": [
+                                    {
+                                        "id": 159,
+                                        "name": "Air Duct Cleaning"
+                                    },
+                                    {
+                                        "id": 824,
+                                        "name": "Air Intake Systems"
+                                    },
+                                    {
+                                        "id": 600,
+                                        "name": "Biohazard Remediation"
+                                    },
+                                    {
+                                        "id": 536,
+                                        "name": "Uncategorized"
+                                    },
+                                    {
+                                        "id": 429,
+                                        "name": "Allergy & Immunology"
+                                    },
+                                    {
+                                        "id": 407,
+                                        "name": "Mold Testing and Remediation"
+                                    }
+                                ],
+                                "contactInfo": {
+                                    "phone": "9123560115",
+                                    "email": "charlie@globalplasmasolutions.com"
+                                },
+                                "eligibleForRaq": true,
+                                "businessHighlights": []
+                            },
+                            {
+                                "spid": 10807426,
+                                "name": "PuroClean Disaster First Response",
+                                "description": "Local Expert Water, Fire, Smoke and Mold Restoration in Fayetteville, North Carolina. Call for fast, local 24x7 response.",
+                                "slug": "/companylist/us/mi/fayetteville/puroclean-disaster-first-response-reviews-8294196.htm",
+                                "isAdvertiser": false,
+                                "hasOffers": false,
+                                "location": {
+                                    "city": "Fayetteville",
+                                    "state": "MI"
+                                },
+                                "metrics": {
+                                    "allTimeAllCategoryGrade": "B",
+                                    "allTimeAllCategoryReview": 5,
+                                    "starRating": 4.05
+                                },
+                                "awards": [],
+                                "sampleReview": {
+                                    "serviceProviderId": 10807426,
+                                    "text": "Great company and it was very easy working with this staff, led by Mark. This process has been very over whelming for me, but every question that I asked got an answer. I have been dealing with a lot of business getting my house back together but PuroClean's leadership Team is completely in touch with the business. This is by far the most employee friendly company that I have worked in. Professional, hard working, top notch group..",
+                                    "reportDate": "2017-10-05T15:45:30.000Z",
+                                    "starRating": 5,
+                                    "userName": "RONALD R.",
+                                    "media": []
+                                },
+                                "categoryProperties": [
+                                    {
+                                        "id": 138,
+                                        "name": "Water and Smoke Damage"
+                                    },
+                                    {
+                                        "id": 407,
+                                        "name": "Mold Testing and Remediation"
+                                    }
+                                ],
+                                "contactInfo": {
+                                    "phone": "9107787591",
+                                    "email": "harley08jillian@yahoo.com"
+                                },
+                                "eligibleForRaq": true,
+                                "businessHighlights": []
+                            },
+                            {
+                                "spid": 264011,
+                                "name": "Environmental Testing & Research Laboratories, Inc",
+                                "description": "ETR Laboratories in an analytic laboratory with a broad range of commercial, industrial and individual clients. We provide analytic services using a wide variety of scientific methods including GC/MS, IC/MS, GIR, NMR and SEM equipment. We can do particle analysis, organic and inorganic chemical analysis and micro analysis on biological and other materials. Private water analysis is our specialty. Award winning. Additional DBA - Environmental Testing & Research Laboratories Inc, ETR Labs, ETR ...",
+                                "slug": "/companylist/us/ma/leominster/environmental-testing-and-research-laboratories%2C-inc-reviews-264011.htm",
+                                "isAdvertiser": false,
+                                "hasOffers": false,
+                                "location": {
+                                    "city": "Leominster",
+                                    "state": "MA"
+                                },
+                                "metrics": {
+                                    "allTimeAllCategoryGrade": "A",
+                                    "allTimeAllCategoryReview": 372,
+                                    "starRating": 4.83
+                                },
+                                "awards": [],
+                                "sampleReview": {
+                                    "serviceProviderId": 264011,
+                                    "text": "The testing process was easy. Clear instructions were included with the test kit. The results gave me peace of mind.",
+                                    "reportDate": "2018-04-16T15:05:06.000Z",
+                                    "starRating": 5,
+                                    "userName": "Mary M.",
+                                    "media": []
+                                },
+                                "logo": {
+                                    "id": 4760351,
+                                    "url": "https://media-content.angi.com/3d4291a0-003c-4778-b6d9-42f74fef6a48.jpg"
+                                },
+                                "categoryProperties": [
+                                    {
+                                        "id": 110,
+                                        "name": "Radon Detection and Reduction"
+                                    },
+                                    {
+                                        "id": 220,
+                                        "name": "Wells and Pumps"
+                                    },
+                                    {
+                                        "id": 140,
+                                        "name": "Water Filtration and Softening"
+                                    },
+                                    {
+                                        "id": 79,
+                                        "name": "Home inspection"
+                                    },
+                                    {
+                                        "id": 107,
+                                        "name": "Plumbing"
+                                    },
+                                    {
+                                        "id": 407,
+                                        "name": "Mold Testing and Remediation"
+                                    },
+                                    {
+                                        "id": 210,
+                                        "name": "Tablepads"
+                                    },
+                                    {
+                                        "id": 196,
+                                        "name": "Homebuilders"
+                                    },
+                                    {
+                                        "id": 159,
+                                        "name": "Air Duct Cleaning"
+                                    },
+                                    {
+                                        "id": 108,
+                                        "name": "Pool and Spa Service"
+                                    },
+                                    {
+                                        "id": 890,
+                                        "name": "Water Pumps"
+                                    }
+                                ],
+                                "contactInfo": {
+                                    "phone": "9788402941",
+                                    "email": "info@etrlabs.com"
+                                },
+                                "eligibleForRaq": true,
+                                "businessHighlights": []
+                            }
+                        ],
+                        "recentAllCategoryServiceProvidersByGrade": [
+                            {
+                                "grade": "A",
+                                "count": 0
+                            },
+                            {
+                                "grade": "B",
+                                "count": 0
+                            },
+                            {
+                                "grade": "C",
+                                "count": 0
+                            },
+                            {
+                                "grade": "D",
+                                "count": 0
+                            },
+                            {
+                                "grade": "F",
+                                "count": 0
+                            }
+                        ],
+                        "offers": [],
+                        "totals": {
+                            "totalDirectoryServiceProviders": 6,
+                            "maybeAverageAllTimeCategoryStarRating": 4.55,
+                            "totalReviewCount": 787
+                        },
+                        "tasksOnGeoCat": [],
+                        "bannerImage": {
+                            "imageUrl": "https://reference-media.angi.com/visitor/mold-removal.jpg?impolicy=resize&cwidth=1678&cheight=497&w=1678&h=497&hor=0&ver=0"
+                        },
+                        "slug": {
+                            "canonical": "/companylist/us/sd/watertown/mold-testing-and-remediation.htm",
+                            "aliases": []
+                        },
+                        "relatedCategorySlugs": [
+                            {
+                                "text": "Radon Mitigation",
+                                "title": "Search for Watertown Radon Mitigation",
+                                "link": "/companylist/us/sd/watertown/radon-testing.htm"
+                            },
+                            {
+                                "text": "Drywall",
+                                "title": "Search for Watertown Drywall",
+                                "link": "/companylist/us/sd/watertown/drywall.htm"
+                            },
+                            {
+                                "text": "Basement Waterproofing",
+                                "title": "Search for Watertown Basement Waterproofing",
+                                "link": "/companylist/us/sd/watertown/basement-waterproofing.htm"
+                            },
+                            {
+                                "text": "Plumbers",
+                                "title": "Search for Watertown Plumbers",
+                                "link": "/companylist/us/sd/watertown/plumbing.htm"
+                            },
+                            {
+                                "text": "Interior Painting",
+                                "title": "Search for Watertown Interior Painting",
+                                "link": "/companylist/us/sd/watertown/interior-painting.htm"
+                            },
+                            {
+                                "text": "Home Inspection",
+                                "title": "Search for Watertown Home Inspection",
+                                "link": "/companylist/us/sd/watertown/home-inspection.htm"
+                            }
+                        ],
+                        "categoryConjugations": [
+                            {
+                                "conjugation": "mold removal company",
+                                "conjugationType": "Singular",
+                                "categoryId": 407
+                            },
+                            {
+                                "conjugation": "contractor",
+                                "conjugationType": "Singular Type",
+                                "categoryId": 407
+                            },
+                            {
+                                "conjugation": "mold remediation expert",
+                                "conjugationType": "Singular Alternate Name",
+                                "categoryId": 407
+                            },
+                            {
+                                "conjugation": "mold removal companies",
+                                "conjugationType": "Plural",
+                                "categoryId": 407
+                            },
+                            {
+                                "conjugation": "mold removal company",
+                                "conjugationType": "Plural Type",
+                                "categoryId": 407
+                            },
+                            {
+                                "conjugation": "mold removal experts",
+                                "conjugationType": "Plural Alternate Name",
+                                "categoryId": 407
+                            },
+                            {
+                                "conjugation": "mold removal",
+                                "conjugationType": "Adjective",
+                                "categoryId": 407
+                            },
+                            {
+                                "conjugation": "mold removal",
+                                "conjugationType": "Top Search",
+                                "categoryId": 407
+                            },
+                            {
+                                "conjugation": "mold-testing-and-remediation",
+                                "conjugationType": "Url Stub",
+                                "categoryId": 407
+                            },
+                            {
+                                "conjugation": "FALSE",
+                                "conjugationType": "Hide Link In Company Tree",
+                                "categoryId": 407
+                            },
+                            {
+                                "conjugation": "B",
+                                "conjugationType": "testing_sandbox",
+                                "categoryId": 407
+                            }
+                        ],
+                        "breadCrumbs": [
+                            {
+                                "name": "Angi",
+                                "link": "https://www.angi.com/"
+                            },
+                            {
+                                "name": "Local Reviews",
+                                "link": "https://www.angi.com/companylist/"
+                            },
+                            {
+                                "name": "Mold Removal Experts",
+                                "link": "https://www.angi.com/companylist/mold-testing-and-remediation.htm"
+                            },
+                            {
+                                "name": "SD",
+                                "link": "https://www.angi.com/companylist/us/sd/"
+                            },
+                            {
+                                "name": "Watertown",
+                                "link": "https://www.angi.com/companylist/us/sd/watertown/"
+                            }
+                        ],
+                        "seoOverrides": {
+                            "name": "mold-testing-and-remediation.htm",
+                            "metaTitle": "Top 6 Best Mold Removal in Watertown, SD",
+                            "metaDescription": "Read real reviews and see ratings for Watertown, SD Mold Removal Companies for free! This list will help you pick the right pro Mold Removal Companies in Watertown, SD.",
+                            "h1Tag": "Get matched with top mold removal experts in Watertown, SD",
+                            "h2MainHeading": "There are 0 highly-rated local mold removal experts.",
+                            "h2Reviews": "Recent Mold Removal Reviews in Watertown",
+                            "h2SpList": "Mold Removal Companies in Watertown",
+                            "h2Deals": "Deals in Watertown for Mold Removal",
+                            "h2RelatedCategories": "Related to mold testing and remediation",
+                            "h2Articles": "Explore our Solution Center for helpful mold removal company articles",
+                            "h2NearMe": "Find mold removal experts in",
+                            "h2Directory": "mold removal experts in Watertown",
+                            "h2Cost": "Related cost guides"
+                        },
+                        "postalCodeCollections": [
+                            {
+                                "postalCodeCollectionId": 90727,
+                                "postalCodeCollectionTypeId": 6,
+                                "displayName": "Watertown",
+                                "name": "/sd/watertown",
+                                "state": {
+                                    "name": "South Dakota",
+                                    "abbreviation": "sd"
+                                }
+                            }
+                        ],
+                        "haOid": 2102360,
+                        "teasers": [
+                            {
+                                "title": "Break the Mold: Why You Should Hire Separate Mold Testing and Mold Remediation Companies",
+                                "slug": "/articles/choose-separate-companies-mold-testing-remediation.htm",
+                                "description": "There's an excellent reason why you should avoid going with the same company for mold testing and mold remediation. Learn why different companies should handle these tasks.",
+                                "image": {
+                                    "url": "https://media.angi.com/s3fs-public/happy-family-inside-house.jpeg",
+                                    "altText": "Happy family inside house"
+                                },
+                                "dek": {
+                                    "json": {
+                                        "data": {},
+                                        "content": [
+                                            {
+                                                "data": {},
+                                                "content": [
+                                                    {
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": "Avoid a conflict of interest by having different companies test and remediate your mold problem",
+                                                        "nodeType": "text"
+                                                    }
+                                                ],
+                                                "nodeType": "paragraph"
+                                            }
+                                        ],
+                                        "nodeType": "document"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Testing for Home Health Hazards",
+                                "slug": "/articles/testing-home-health-hazards.htm",
+                                "description": " Mold, radon, carbon monoxide and asbestos are dangerous health hazards to occupants in any home. Learn how to test for these problems yourself.",
+                                "image": {
+                                    "url": "https://media.angi.com/s3fs-public/fea_mold_moldmasters_02_1012_104965.jpg",
+                                    "altText": "home health hazard inspector hanging a warning sign on a door"
+                                },
+                                "dek": {
+                                    "json": {
+                                        "data": {},
+                                        "content": [
+                                            {
+                                                "data": {},
+                                                "content": [
+                                                    {
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": "Mold, radon, carbon monoxide, asbestos \u2014 learn how to test for these problems at home.",
+                                                        "nodeType": "text"
+                                                    }
+                                                ],
+                                                "nodeType": "paragraph"
+                                            }
+                                        ],
+                                        "nodeType": "document"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Signs Mold Might be Growing in Your Home",
+                                "slug": "/articles/signs-mold-might-be-growing-your-home.htm",
+                                "description": "Consider calling a professional at the first sign of mold.",
+                                "image": {
+                                    "url": "https://media.angi.com/s3fs-public/moldremovalinspector1.jpg",
+                                    "altText": "a mold removal specialist in a breathing mask. "
+                                },
+                                "dek": {
+                                    "json": {
+                                        "nodeType": "document",
+                                        "data": {},
+                                        "content": [
+                                            {
+                                                "nodeType": "paragraph",
+                                                "data": {},
+                                                "content": [
+                                                    {
+                                                        "nodeType": "text",
+                                                        "value": "Consider calling a professional at the first sign of mold.",
+                                                        "data": {},
+                                                        "marks": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        ],
+                        "costTeasers": [
+                            {
+                                "title": "How Much Does Mold Remediation Cost?",
+                                "slug": "/articles/how-much-does-mold-remediation-service-cost.htm"
+                            }
+                        ],
+                        "totalTeasersCount": 47,
+                        "totalAdvertiserSpCount": 0,
+                        "totalNonAdvertiserSpCount": 0,
+                        "searchPilotTest": "",
+                        "featuredSpLimit": "10"
+                    }
+                },
+                "filteredTask": {
+                    "selectedTask": {
+                        "label": "",
+                        "slug": ""
+                    },
+                    "showModal": false,
+                    "filteredSps": [],
+                    "showSpinner": false
+                }
+            },
+            "apiResponse": {
+                "reviews": [],
+                "citiesNearMe": [
+                    {
+                        "name": "Milbank",
+                        "slug": "/companylist/us/sd/milbank/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Volga",
+                        "slug": "/companylist/us/sd/volga/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Ortonville",
+                        "slug": "/companylist/us/mn/ortonville/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Brookings",
+                        "slug": "/companylist/us/sd/brookings/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Madison",
+                        "slug": "/companylist/us/sd/madison/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Huron",
+                        "slug": "/companylist/us/sd/huron/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Veblen",
+                        "slug": "/companylist/us/sd/veblen/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Redfield",
+                        "slug": "/companylist/us/sd/redfield/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Montevideo",
+                        "slug": "/companylist/us/mn/montevideo/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Britton",
+                        "slug": "/companylist/us/sd/britton/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Marshall",
+                        "slug": "/companylist/us/mn/marshall/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Morris",
+                        "slug": "/companylist/us/mn/morris/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Dell Rapids",
+                        "slug": "/companylist/us/sd/dell-rapids/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Granite Falls",
+                        "slug": "/companylist/us/mn/granite-falls/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Aberdeen",
+                        "slug": "/companylist/us/sd/aberdeen/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Benson",
+                        "slug": "/companylist/us/mn/benson/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Crooks",
+                        "slug": "/companylist/us/sd/crooks/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Sioux Falls",
+                        "slug": "/companylist/us/sd/sioux-falls/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Mitchell",
+                        "slug": "/companylist/us/sd/mitchell/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Brandon",
+                        "slug": "/companylist/us/sd/brandon/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Luverne",
+                        "slug": "/companylist/us/mn/luverne/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Wahpeton",
+                        "slug": "/companylist/us/nd/wahpeton/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "Glenwood",
+                        "slug": "/companylist/us/mn/glenwood/mold-testing-and-remediation.htm"
+                    }
+                ],
+                "directory": [
+                    {
+                        "spid": 10485228,
+                        "name": "COLLINS CLEANING SYSTEMS",
+                        "slug": "/companylist/us/sd/belle-fourche/collins-cleaning-systems-reviews-5754201.htm",
+                        "address": {
+                            "address1": "614 7TH Ave.",
+                            "city": "Belle Fourche",
+                            "state": "South Dakota",
+                            "postalCode": "57717"
+                        }
+                    },
+                    {
+                        "spid": 11004101,
+                        "name": "Environmental Air Solutions, Inc.",
+                        "slug": "/companylist/us/nd/fargo/environmental-air-solutions%2C-inc-reviews-7606241.htm",
+                        "address": {
+                            "address1": "PO Box 9074",
+                            "address2": "",
+                            "city": "Fargo",
+                            "state": "North Dakota",
+                            "postalCode": "58106"
+                        }
+                    },
+                    {
+                        "spid": 264011,
+                        "name": "Environmental Testing & Research Laboratories, Inc",
+                        "slug": "/companylist/us/ma/leominster/environmental-testing-and-research-laboratories%2C-inc-reviews-264011.htm",
+                        "address": {
+                            "address1": "60 Elm Hill Ave.",
+                            "address2": "Suite 1",
+                            "city": "Leominster",
+                            "state": "Massachusetts",
+                            "postalCode": "01453"
+                        }
+                    },
+                    {
+                        "spid": 10839715,
+                        "name": "Global Plasma Solutions",
+                        "slug": "/companylist/us/ga/savannah/global-plasma-solutions-reviews-4061582.htm",
+                        "address": {
+                            "address1": "10 Mall Terrace",
+                            "address2": "",
+                            "city": "Savannah",
+                            "state": "Georgia",
+                            "postalCode": "31406"
+                        }
+                    },
+                    {
+                        "spid": 5540049,
+                        "name": "Moldlab",
+                        "slug": "/companylist/us/tx/carrollton/moldlab-reviews-5540049.htm",
+                        "address": {
+                            "address1": "2501 Mayes Road",
+                            "address2": "Ste 110",
+                            "city": "Carrollton",
+                            "state": "Texas",
+                            "postalCode": "75006"
+                        }
+                    },
+                    {
+                        "spid": 10807426,
+                        "name": "PuroClean Disaster First Response",
+                        "slug": "/companylist/us/mi/fayetteville/puroclean-disaster-first-response-reviews-8294196.htm",
+                        "address": {
+                            "address1": "5851 Ramsey Street, Suite C",
+                            "address2": "",
+                            "city": "Fayetteville",
+                            "state": "Michigan",
+                            "postalCode": "28311"
+                        }
+                    }
+                ],
+                "localDirectory": [],
+                "featuredServiceProviders": [
+                    {
+                        "spid": 5540049,
+                        "name": "Moldlab",
+                        "description": "Mold identification, mold test kits and testing supplies. If you suspect you have a mold problem give us a call toll free and we can walk you through your testing options.",
+                        "slug": "/companylist/us/tx/carrollton/moldlab-reviews-5540049.htm",
+                        "isAdvertiser": false,
+                        "hasOffers": false,
+                        "location": {
+                            "city": "Carrollton",
+                            "state": "TX"
+                        },
+                        "metrics": {
+                            "allTimeAllCategoryGrade": "A",
+                            "allTimeAllCategoryReview": 402,
+                            "starRating": 4.72
+                        },
+                        "awards": [],
+                        "sampleReview": {
+                            "serviceProviderId": 5540049,
+                            "text": "Their assessment was just what the mold removing company need to plan their work.",
+                            "reportDate": "2017-10-18T21:51:21.000Z",
+                            "starRating": 5,
+                            "userName": "Duane L.",
+                            "media": []
+                        },
+                        "logo": {
+                            "id": 5253399,
+                            "url": "https://media-content.angi.com/4e0d6446-5085-43d1-ac7f-721d4b5b04aa.jpg"
+                        },
+                        "categoryProperties": [
+                            {
+                                "id": 407,
+                                "name": "Mold Testing and Remediation"
+                            },
+                            {
+                                "id": 324,
+                                "name": "Uncategorized Services"
+                            }
+                        ],
+                        "contactInfo": {
+                            "phone": "8664166653",
+                            "email": "orders@moldlab.com"
+                        },
+                        "eligibleForRaq": true,
+                        "businessHighlights": []
+                    },
+                    {
+                        "spid": 11004101,
+                        "name": "Environmental Air Solutions, Inc.",
+                        "description": "We offer a wide range of dependable services, such as air testing and mold control. With experienced and professional air quality consultants, you can count on us to make the air you breathe healthier and safer.",
+                        "slug": "/companylist/us/nd/fargo/environmental-air-solutions%2C-inc-reviews-7606241.htm",
+                        "isAdvertiser": false,
+                        "hasOffers": false,
+                        "location": {
+                            "city": "Fargo",
+                            "state": "ND"
+                        },
+                        "metrics": {
+                            "allTimeAllCategoryGrade": "B",
+                            "allTimeAllCategoryReview": 4,
+                            "starRating": 4
+                        },
+                        "awards": [],
+                        "sampleReview": {
+                            "serviceProviderId": 11004101,
+                            "text": "Arrived at property at agreed upon time and immediately went to work gathering samples.&nbsp; Explained the process as he worked, great job!",
+                            "reportDate": "2014-08-27T09:01:43.000Z",
+                            "starRating": 5,
+                            "userName": "Erroll B.",
+                            "media": []
+                        },
+                        "logo": {
+                            "id": 3349547,
+                            "url": "https://media-content.angi.com/8742c35d-5fbb-40f4-80de-9d108a85eaa6.jpg"
+                        },
+                        "categoryProperties": [
+                            {
+                                "id": 407,
+                                "name": "Mold Testing and Remediation"
+                            },
+                            {
+                                "id": 594,
+                                "name": "Basement Remodeling"
+                            },
+                            {
+                                "id": 534,
+                                "name": "Property Management"
+                            },
+                            {
+                                "id": 517,
+                                "name": "Lung/Pulmonology"
+                            },
+                            {
+                                "id": 450,
+                                "name": "Allergy & Immunology - Pediatrics"
+                            },
+                            {
+                                "id": 429,
+                                "name": "Allergy & Immunology"
+                            },
+                            {
+                                "id": 395,
+                                "name": "Real Estate Agents"
+                            },
+                            {
+                                "id": 280,
+                                "name": "Real Estate Appraisals"
+                            },
+                            {
+                                "id": 220,
+                                "name": "Wells and Pumps"
+                            },
+                            {
+                                "id": 194,
+                                "name": "Mortgage Companies"
+                            },
+                            {
+                                "id": 159,
+                                "name": "Air Duct Cleaning"
+                            },
+                            {
+                                "id": 149,
+                                "name": "Basement Waterproofing"
+                            },
+                            {
+                                "id": 138,
+                                "name": "Water and Smoke Damage"
+                            },
+                            {
+                                "id": 110,
+                                "name": "Radon Detection and Reduction"
+                            },
+                            {
+                                "id": 79,
+                                "name": "Home inspection"
+                            },
+                            {
+                                "id": 58,
+                                "name": "Pest Control"
+                            }
+                        ],
+                        "contactInfo": {
+                            "phone": "7014787877",
+                            "email": "info@eairsolutions.com"
+                        },
+                        "eligibleForRaq": true,
+                        "businessHighlights": [
+                            {
+                                "businessHighlightTypeId": 18,
+                                "name": "EmergencyServices",
+                                "description": "Emergency Services Offered",
+                                "iconUrl": "https://reference-media.angi.com/images/EmergencyServices.png"
+                            }
+                        ]
+                    },
+                    {
+                        "spid": 10485228,
+                        "name": "COLLINS CLEANING SYSTEMS",
+                        "description": "Will bill Insurance companies on filed insurance claims for water, sewer backup, fire and smoke and mold remediation claims. Have trained and certified employees. We are a bonded and insured company. We take cash, check and credit cards payments.",
+                        "slug": "/companylist/us/sd/belle-fourche/collins-cleaning-systems-reviews-5754201.htm",
+                        "isAdvertiser": false,
+                        "hasOffers": false,
+                        "location": {
+                            "city": "Belle Fourche",
+                            "state": "SD"
+                        },
+                        "metrics": {
+                            "allTimeAllCategoryGrade": "A",
+                            "allTimeAllCategoryReview": 3,
+                            "starRating": 4.67
+                        },
+                        "awards": [],
+                        "sampleReview": {
+                            "serviceProviderId": 10485228,
+                            "text": "<p>It was really good and I told them that the price I paid was what I'm willing to pay. He came in and did an estimate. He was very conscientious and we have cats and dogs and he's very good about walking. You don't have to point to the little spots and it was just a pleasant experience. He actually wanted to do a good job. I really like that guy too.</p>",
+                            "reportDate": "2014-06-02T10:26:49.000Z",
+                            "starRating": 5,
+                            "userName": "Jim G.",
+                            "media": []
+                        },
+                        "categoryProperties": [
+                            {
+                                "id": 36,
+                                "name": "Carpet Cleaning"
+                            },
+                            {
+                                "id": 888,
+                                "name": "Upholstery/Carpet - Auto"
+                            },
+                            {
+                                "id": 484,
+                                "name": "Dryer Vent Cleaning"
+                            },
+                            {
+                                "id": 407,
+                                "name": "Mold Testing and Remediation"
+                            },
+                            {
+                                "id": 159,
+                                "name": "Air Duct Cleaning"
+                            },
+                            {
+                                "id": 138,
+                                "name": "Water and Smoke Damage"
+                            },
+                            {
+                                "id": 30,
+                                "name": "Blind Cleaning"
+                            }
+                        ],
+                        "contactInfo": {
+                            "phone": "6058929022",
+                            "email": "gary@collinscleaningsystems.com"
+                        },
+                        "eligibleForRaq": true,
+                        "businessHighlights": []
+                    },
+                    {
+                        "spid": 10839715,
+                        "name": "Global Plasma Solutions",
+                        "description": "Global Plasma Solutions is a manufacturing company that sells air purification systems primarily into the commercial and residential markets.  Home owners can benenfit from our systems as they are easily adapted to any HVAC system.  Go to www.gpshvac.com to find a certified contractor near you to have one installed within your home.",
+                        "slug": "/companylist/us/ga/savannah/global-plasma-solutions-reviews-4061582.htm",
+                        "isAdvertiser": false,
+                        "hasOffers": false,
+                        "location": {
+                            "city": "Savannah",
+                            "state": "GA"
+                        },
+                        "metrics": {
+                            "allTimeAllCategoryGrade": "A",
+                            "allTimeAllCategoryReview": 1,
+                            "starRating": 5
+                        },
+                        "awards": [],
+                        "sampleReview": {
+                            "serviceProviderId": 10839715,
+                            "text": "The owner helped us with understanding this new ionizer technology and had to be contacted again about placing them in a better place in the HVAC system to increase ion output into the living space. &nbsp;The ionizers are a bit pricey for such small units. &nbsp;They help to kill germs in the home and remove new house construction VOCS, but we were disappointed that they did not remove all of the fumes. One email was not returned, but overall we had a good experience.",
+                            "reportDate": "2014-06-06T23:00:51.000Z",
+                            "starRating": 5,
+                            "userName": "Mike &amp; Michele D.",
+                            "media": []
+                        },
+                        "categoryProperties": [
+                            {
+                                "id": 159,
+                                "name": "Air Duct Cleaning"
+                            },
+                            {
+                                "id": 824,
+                                "name": "Air Intake Systems"
+                            },
+                            {
+                                "id": 600,
+                                "name": "Biohazard Remediation"
+                            },
+                            {
+                                "id": 536,
+                                "name": "Uncategorized"
+                            },
+                            {
+                                "id": 429,
+                                "name": "Allergy & Immunology"
+                            },
+                            {
+                                "id": 407,
+                                "name": "Mold Testing and Remediation"
+                            }
+                        ],
+                        "contactInfo": {
+                            "phone": "9123560115",
+                            "email": "charlie@globalplasmasolutions.com"
+                        },
+                        "eligibleForRaq": true,
+                        "businessHighlights": []
+                    },
+                    {
+                        "spid": 10807426,
+                        "name": "PuroClean Disaster First Response",
+                        "description": "Local Expert Water, Fire, Smoke and Mold Restoration in Fayetteville, North Carolina. Call for fast, local 24x7 response.",
+                        "slug": "/companylist/us/mi/fayetteville/puroclean-disaster-first-response-reviews-8294196.htm",
+                        "isAdvertiser": false,
+                        "hasOffers": false,
+                        "location": {
+                            "city": "Fayetteville",
+                            "state": "MI"
+                        },
+                        "metrics": {
+                            "allTimeAllCategoryGrade": "B",
+                            "allTimeAllCategoryReview": 5,
+                            "starRating": 4.05
+                        },
+                        "awards": [],
+                        "sampleReview": {
+                            "serviceProviderId": 10807426,
+                            "text": "Great company and it was very easy working with this staff, led by Mark. This process has been very over whelming for me, but every question that I asked got an answer. I have been dealing with a lot of business getting my house back together but PuroClean's leadership Team is completely in touch with the business. This is by far the most employee friendly company that I have worked in. Professional, hard working, top notch group..",
+                            "reportDate": "2017-10-05T15:45:30.000Z",
+                            "starRating": 5,
+                            "userName": "RONALD R.",
+                            "media": []
+                        },
+                        "categoryProperties": [
+                            {
+                                "id": 138,
+                                "name": "Water and Smoke Damage"
+                            },
+                            {
+                                "id": 407,
+                                "name": "Mold Testing and Remediation"
+                            }
+                        ],
+                        "contactInfo": {
+                            "phone": "9107787591",
+                            "email": "harley08jillian@yahoo.com"
+                        },
+                        "eligibleForRaq": true,
+                        "businessHighlights": []
+                    },
+                    {
+                        "spid": 264011,
+                        "name": "Environmental Testing & Research Laboratories, Inc",
+                        "description": "ETR Laboratories in an analytic laboratory with a broad range of commercial, industrial and individual clients. We provide analytic services using a wide variety of scientific methods including GC/MS, IC/MS, GIR, NMR and SEM equipment. We can do particle analysis, organic and inorganic chemical analysis and micro analysis on biological and other materials. Private water analysis is our specialty. Award winning. Additional DBA - Environmental Testing & Research Laboratories Inc, ETR Labs, ETR ...",
+                        "slug": "/companylist/us/ma/leominster/environmental-testing-and-research-laboratories%2C-inc-reviews-264011.htm",
+                        "isAdvertiser": false,
+                        "hasOffers": false,
+                        "location": {
+                            "city": "Leominster",
+                            "state": "MA"
+                        },
+                        "metrics": {
+                            "allTimeAllCategoryGrade": "A",
+                            "allTimeAllCategoryReview": 372,
+                            "starRating": 4.83
+                        },
+                        "awards": [],
+                        "sampleReview": {
+                            "serviceProviderId": 264011,
+                            "text": "The testing process was easy. Clear instructions were included with the test kit. The results gave me peace of mind.",
+                            "reportDate": "2018-04-16T15:05:06.000Z",
+                            "starRating": 5,
+                            "userName": "Mary M.",
+                            "media": []
+                        },
+                        "logo": {
+                            "id": 4760351,
+                            "url": "https://media-content.angi.com/3d4291a0-003c-4778-b6d9-42f74fef6a48.jpg"
+                        },
+                        "categoryProperties": [
+                            {
+                                "id": 110,
+                                "name": "Radon Detection and Reduction"
+                            },
+                            {
+                                "id": 220,
+                                "name": "Wells and Pumps"
+                            },
+                            {
+                                "id": 140,
+                                "name": "Water Filtration and Softening"
+                            },
+                            {
+                                "id": 79,
+                                "name": "Home inspection"
+                            },
+                            {
+                                "id": 107,
+                                "name": "Plumbing"
+                            },
+                            {
+                                "id": 407,
+                                "name": "Mold Testing and Remediation"
+                            },
+                            {
+                                "id": 210,
+                                "name": "Tablepads"
+                            },
+                            {
+                                "id": 196,
+                                "name": "Homebuilders"
+                            },
+                            {
+                                "id": 159,
+                                "name": "Air Duct Cleaning"
+                            },
+                            {
+                                "id": 108,
+                                "name": "Pool and Spa Service"
+                            },
+                            {
+                                "id": 890,
+                                "name": "Water Pumps"
+                            }
+                        ],
+                        "contactInfo": {
+                            "phone": "9788402941",
+                            "email": "info@etrlabs.com"
+                        },
+                        "eligibleForRaq": true,
+                        "businessHighlights": []
+                    }
+                ],
+                "recentAllCategoryServiceProvidersByGrade": [
+                    {
+                        "grade": "A",
+                        "count": 0
+                    },
+                    {
+                        "grade": "B",
+                        "count": 0
+                    },
+                    {
+                        "grade": "C",
+                        "count": 0
+                    },
+                    {
+                        "grade": "D",
+                        "count": 0
+                    },
+                    {
+                        "grade": "F",
+                        "count": 0
+                    }
+                ],
+                "offers": [],
+                "totals": {
+                    "totalDirectoryServiceProviders": 6,
+                    "maybeAverageAllTimeCategoryStarRating": 4.55,
+                    "totalReviewCount": 787
+                },
+                "tasksOnGeoCat": [],
+                "bannerImage": {
+                    "imageUrl": "https://reference-media.angi.com/visitor/mold-removal.jpg?impolicy=resize&cwidth=1678&cheight=497&w=1678&h=497&hor=0&ver=0"
+                },
+                "slug": {
+                    "canonical": "/companylist/us/sd/watertown/mold-testing-and-remediation.htm",
+                    "aliases": []
+                },
+                "relatedCategorySlugs": [
+                    {
+                        "text": "Radon Mitigation",
+                        "title": "Search for Watertown Radon Mitigation",
+                        "link": "/companylist/us/sd/watertown/radon-testing.htm"
+                    },
+                    {
+                        "text": "Drywall",
+                        "title": "Search for Watertown Drywall",
+                        "link": "/companylist/us/sd/watertown/drywall.htm"
+                    },
+                    {
+                        "text": "Basement Waterproofing",
+                        "title": "Search for Watertown Basement Waterproofing",
+                        "link": "/companylist/us/sd/watertown/basement-waterproofing.htm"
+                    },
+                    {
+                        "text": "Plumbers",
+                        "title": "Search for Watertown Plumbers",
+                        "link": "/companylist/us/sd/watertown/plumbing.htm"
+                    },
+                    {
+                        "text": "Interior Painting",
+                        "title": "Search for Watertown Interior Painting",
+                        "link": "/companylist/us/sd/watertown/interior-painting.htm"
+                    },
+                    {
+                        "text": "Home Inspection",
+                        "title": "Search for Watertown Home Inspection",
+                        "link": "/companylist/us/sd/watertown/home-inspection.htm"
+                    }
+                ],
+                "categoryConjugations": [
+                    {
+                        "conjugation": "mold removal company",
+                        "conjugationType": "Singular",
+                        "categoryId": 407
+                    },
+                    {
+                        "conjugation": "contractor",
+                        "conjugationType": "Singular Type",
+                        "categoryId": 407
+                    },
+                    {
+                        "conjugation": "mold remediation expert",
+                        "conjugationType": "Singular Alternate Name",
+                        "categoryId": 407
+                    },
+                    {
+                        "conjugation": "mold removal companies",
+                        "conjugationType": "Plural",
+                        "categoryId": 407
+                    },
+                    {
+                        "conjugation": "mold removal company",
+                        "conjugationType": "Plural Type",
+                        "categoryId": 407
+                    },
+                    {
+                        "conjugation": "mold removal experts",
+                        "conjugationType": "Plural Alternate Name",
+                        "categoryId": 407
+                    },
+                    {
+                        "conjugation": "mold removal",
+                        "conjugationType": "Adjective",
+                        "categoryId": 407
+                    },
+                    {
+                        "conjugation": "mold removal",
+                        "conjugationType": "Top Search",
+                        "categoryId": 407
+                    },
+                    {
+                        "conjugation": "mold-testing-and-remediation",
+                        "conjugationType": "Url Stub",
+                        "categoryId": 407
+                    },
+                    {
+                        "conjugation": "FALSE",
+                        "conjugationType": "Hide Link In Company Tree",
+                        "categoryId": 407
+                    },
+                    {
+                        "conjugation": "B",
+                        "conjugationType": "testing_sandbox",
+                        "categoryId": 407
+                    }
+                ],
+                "breadCrumbs": [
+                    {
+                        "name": "Angi",
+                        "link": "https://www.angi.com/"
+                    },
+                    {
+                        "name": "Local Reviews",
+                        "link": "https://www.angi.com/companylist/"
+                    },
+                    {
+                        "name": "Mold Removal Experts",
+                        "link": "https://www.angi.com/companylist/mold-testing-and-remediation.htm"
+                    },
+                    {
+                        "name": "SD",
+                        "link": "https://www.angi.com/companylist/us/sd/"
+                    },
+                    {
+                        "name": "Watertown",
+                        "link": "https://www.angi.com/companylist/us/sd/watertown/"
+                    }
+                ],
+                "seoOverrides": {
+                    "name": "mold-testing-and-remediation.htm",
+                    "metaTitle": "Top 6 Best Mold Removal in Watertown, SD",
+                    "metaDescription": "Read real reviews and see ratings for Watertown, SD Mold Removal Companies for free! This list will help you pick the right pro Mold Removal Companies in Watertown, SD.",
+                    "h1Tag": "Get matched with top mold removal experts in Watertown, SD",
+                    "h2MainHeading": "There are 0 highly-rated local mold removal experts.",
+                    "h2Reviews": "Recent Mold Removal Reviews in Watertown",
+                    "h2SpList": "Mold Removal Companies in Watertown",
+                    "h2Deals": "Deals in Watertown for Mold Removal",
+                    "h2RelatedCategories": "Related to mold testing and remediation",
+                    "h2Articles": "Explore our Solution Center for helpful mold removal company articles",
+                    "h2NearMe": "Find mold removal experts in",
+                    "h2Directory": "mold removal experts in Watertown",
+                    "h2Cost": "Related cost guides"
+                },
+                "postalCodeCollections": [
+                    {
+                        "postalCodeCollectionId": 90727,
+                        "postalCodeCollectionTypeId": 6,
+                        "displayName": "Watertown",
+                        "name": "/sd/watertown",
+                        "state": {
+                            "name": "South Dakota",
+                            "abbreviation": "sd"
+                        }
+                    }
+                ],
+                "haOid": 2102360,
+                "teasers": [
+                    {
+                        "title": "Break the Mold: Why You Should Hire Separate Mold Testing and Mold Remediation Companies",
+                        "slug": "/articles/choose-separate-companies-mold-testing-remediation.htm",
+                        "description": "There's an excellent reason why you should avoid going with the same company for mold testing and mold remediation. Learn why different companies should handle these tasks.",
+                        "image": {
+                            "url": "https://media.angi.com/s3fs-public/happy-family-inside-house.jpeg",
+                            "altText": "Happy family inside house"
+                        },
+                        "dek": {
+                            "json": {
+                                "data": {},
+                                "content": [
+                                    {
+                                        "data": {},
+                                        "content": [
+                                            {
+                                                "data": {},
+                                                "marks": [],
+                                                "value": "Avoid a conflict of interest by having different companies test and remediate your mold problem",
+                                                "nodeType": "text"
+                                            }
+                                        ],
+                                        "nodeType": "paragraph"
+                                    }
+                                ],
+                                "nodeType": "document"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Testing for Home Health Hazards",
+                        "slug": "/articles/testing-home-health-hazards.htm",
+                        "description": " Mold, radon, carbon monoxide and asbestos are dangerous health hazards to occupants in any home. Learn how to test for these problems yourself.",
+                        "image": {
+                            "url": "https://media.angi.com/s3fs-public/fea_mold_moldmasters_02_1012_104965.jpg",
+                            "altText": "home health hazard inspector hanging a warning sign on a door"
+                        },
+                        "dek": {
+                            "json": {
+                                "data": {},
+                                "content": [
+                                    {
+                                        "data": {},
+                                        "content": [
+                                            {
+                                                "data": {},
+                                                "marks": [],
+                                                "value": "Mold, radon, carbon monoxide, asbestos \u2014 learn how to test for these problems at home.",
+                                                "nodeType": "text"
+                                            }
+                                        ],
+                                        "nodeType": "paragraph"
+                                    }
+                                ],
+                                "nodeType": "document"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Signs Mold Might be Growing in Your Home",
+                        "slug": "/articles/signs-mold-might-be-growing-your-home.htm",
+                        "description": "Consider calling a professional at the first sign of mold.",
+                        "image": {
+                            "url": "https://media.angi.com/s3fs-public/moldremovalinspector1.jpg",
+                            "altText": "a mold removal specialist in a breathing mask. "
+                        },
+                        "dek": {
+                            "json": {
+                                "nodeType": "document",
+                                "data": {},
+                                "content": [
+                                    {
+                                        "nodeType": "paragraph",
+                                        "data": {},
+                                        "content": [
+                                            {
+                                                "nodeType": "text",
+                                                "value": "Consider calling a professional at the first sign of mold.",
+                                                "data": {},
+                                                "marks": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "costTeasers": [
+                    {
+                        "title": "How Much Does Mold Remediation Cost?",
+                        "slug": "/articles/how-much-does-mold-remediation-service-cost.htm"
+                    }
+                ],
+                "totalTeasersCount": 47,
+                "totalAdvertiserSpCount": 0,
+                "totalNonAdvertiserSpCount": 0,
+                "searchPilotTest": "",
+                "featuredSpLimit": "10"
+            },
+            "searchPilotTest": ""
+        },
+        "__N_SSP": true
+    },
+    "page": "/companylist/us/[state]/[city]/[category]",
+    "query": {
+        "state": "sd",
+        "city": "watertown",
+        "category": "mold-testing-and-remediation.htm"
+    },
+    "buildId": "2crCuRFT9cdhR9yIm92Cz",
+    "assetPrefix": "/app/static/geocat-next-app",
+    "runtimeConfig": {
+        "NEXT_PUBLIC_HOMEADVISOR_SERVICE_REQUEST_URL": "https://match.angieslist.com",
+        "NEXT_PUBLIC_TAMPA_UI_URL": "https://member.angi.com",
+        "NEXT_PUBLIC_BUSINESSCENTER_UI_URL": "https://office.angi.com",
+        "NEXT_PUBLIC_DRUPAL_UI_URL": "https://www.angi.com",
+        "NEXT_PUBLIC_API_BASE_URL": "https://geocat-next-app-proda.yellow.angieslist.com",
+        "NEXT_PUBLIC_VISITOR_APP_URL": "https://visitor-app-proda.yellow.angieslist.com"
+    },
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}
